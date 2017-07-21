@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "pip paho-mqtt installing start"
+echo "pip geoip2 installing start"
 sudo pip install geoip2
 echo "completed"
 
