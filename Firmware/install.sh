@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "pip geoip2 installing start"
-sudo pip install geoip2==2.5.0
+echo "pip html-linter installing start"
+sudo pip install html-linter==0.3.0
 echo "completed"
 
